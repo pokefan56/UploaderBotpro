@@ -1,4 +1,5 @@
 aiohttp
+aiofiles
 beautifulsoup4
 hachoir
 numpy
@@ -19,3 +20,6 @@ pyromod
 yt-dlp
 filesplit==3.0.2
 mega.py
+humanize
+Flask
+gunicorn
