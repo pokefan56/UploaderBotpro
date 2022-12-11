@@ -1,5 +1,6 @@
 aiohttp
 aiofiles
+youtube_dl
 beautifulsoup4
 hachoir
 numpy
